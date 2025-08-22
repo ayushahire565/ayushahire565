@@ -2,7 +2,6 @@
 
 # Hi there, I'm Ayush Ahire! 👋
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Product%20Developer&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=Crafting%20Digital%20Experiences%20with%20Code%20%26%20Design&descSize=20&descAlignY=55" alt="Header Banner" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&lines=Product+Developer+%F0%9F%9A%80;Full-Stack+Engineer+%F0%9F%92%BB;AI+%26+ML+Enthusiast+%F0%9F%A4%96;UI%2FUX+Designer+%F0%9F%8E%A8" alt="Typing SVG" />
 
