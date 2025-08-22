@@ -72,24 +72,24 @@
 
 ### 🎯 My Core Competencies
 
-<table>
+<table style="background-color: #0d1117; border: 2px solid #00d9ff; border-radius: 15px; padding: 20px;">
   <tr>
-    <td align="center" width="25%">
+    <td align="center" width="25%" style="background-color: #161b22; border: 1px solid #30363d; border-radius: 10px; padding: 15px; margin: 5px;">
       <img src="https://img.shields.io/badge/📊-Product%20Strategy-00D9FF?style=for-the-badge&labelColor=0D1117" alt="Strategy" />
       <br><b>Product Strategy</b>
       <br><sub>Market Research • User Analysis • Product Roadmapping • Competitive Intelligence</sub>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="25%" style="background-color: #161b22; border: 1px solid #30363d; border-radius: 10px; padding: 15px; margin: 5px;">
       <img src="https://img.shields.io/badge/🎨-UX%2FUI%20Design-00D9FF?style=for-the-badge&labelColor=0D1117" alt="Design" />
       <br><b>UX/UI Design</b>
       <br><sub>User Research • Prototyping • Design Systems • Accessibility</sub>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="25%" style="background-color: #161b22; border: 1px solid #30363d; border-radius: 10px; padding: 15px; margin: 5px;">
       <img src="https://img.shields.io/badge/💻-Full--Stack%20Dev-00D9FF?style=for-the-badge&labelColor=0D1117" alt="Development" />
       <br><b>Full-Stack Development</b>
       <br><sub>Frontend • Backend • Mobile • DevOps • Architecture</sub>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="25%" style="background-color: #161b22; border: 1px solid #30363d; border-radius: 10px; padding: 15px; margin: 5px;">
       <img src="https://img.shields.io/badge/📈-Growth%20Hacking-00D9FF?style=for-the-badge&labelColor=0D1117" alt="Growth" />
       <br><b>Growth & Analytics</b>
       <br><sub>Performance Metrics • A/B Testing • User Engagement • SEO</sub>
@@ -103,7 +103,7 @@
 
 ### 📈 Performance Insights
 
-<div align="center">
+<div align="center" style="background-color: #0d1117; border: 2px solid #00d9ff; border-radius: 15px; padding: 20px; margin: 10px;">
 
 <table>
   <tr>
@@ -118,15 +118,21 @@
 
 <br>
 
+<div style="background-color: #161b22; border: 1px solid #30363d; border-radius: 10px; padding: 15px; margin: 10px;">
 <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushahire565&theme=github-dark-blue&background=0d1117&stroke=30363d&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&sideNums=ffffff&currStreakNum=00d9ff&dates=ffffff&sideLabels=ffffff&hide_border=false&border=30363d" alt="GitHub Streak Stats" />
+</div>
 
 <br><br>
 
+<div style="background-color: #161b22; border: 1px solid #30363d; border-radius: 10px; padding: 15px; margin: 10px;">
 <img width="85%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayushahire565&theme=github_dark&hide_border=false" alt="Profile Details" />
+</div>
 
 <br><br>
 
+<div style="background-color: #161b22; border: 1px solid #30363d; border-radius: 10px; padding: 15px; margin: 10px;">
 <img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=ayushahire565&theme=github-compact&bg_color=0d1117&color=ffffff&line=00d9ff&point=00d9ff&area=true&area_color=00d9ff&hide_border=false&custom_title=📈%20Contribution%20Activity%20Over%20Time" alt="Activity Graph" />
+</div>
 
 </div>
 
@@ -134,7 +140,7 @@
 
 ### 🎯 Trophy Collection
 
-<div align="center">
+<div align="center" style="background-color: #0d1117; border: 2px solid #00d9ff; border-radius: 15px; padding: 20px; margin: 10px;">
 
 <img width="100%" src="https://github-profile-trophy.vercel.app/?username=ayushahire565&theme=nord&no-frame=false&no-bg=true&margin-w=4&column=8&title=MultiLanguage,Commits,PullRequest,Reviews,Issues,Followers,Stars,Repositories" alt="GitHub Trophies" />
 
@@ -142,24 +148,24 @@
 
 ### 🌟 Achievement Highlights
 
-<table>
+<table style="background-color: #161b22; border: 1px solid #30363d; border-radius: 10px; padding: 15px;">
   <tr>
-    <td align="center" width="25%">
+    <td align="center" width="25%" style="background-color: #0d1117; border: 1px solid #21262d; border-radius: 8px; padding: 10px; margin: 5px;">
       <img src="https://img.shields.io/badge/🏅-Multi--Language%20Expert-FFD700?style=for-the-badge&labelColor=0D1117" alt="Multi-Language Badge"/>
       <br><b>Multi-Language Expert</b>
       <br><sub>Proficient in 8+ programming languages</sub>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="25%" style="background-color: #0d1117; border: 1px solid #21262d; border-radius: 8px; padding: 10px; margin: 5px;">
       <img src="https://img.shields.io/badge/⭐-Top%20Contributor-FF6B6B?style=for-the-badge&labelColor=0D1117" alt="Top Contributor Badge"/>
       <br><b>Top Contributor</b>
       <br><sub>Consistent contribution streaks</sub>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="25%" style="background-color: #0d1117; border: 1px solid #21262d; border-radius: 8px; padding: 10px; margin: 5px;">
       <img src="https://img.shields.io/badge/🚀-Innovation%20Leader-4ECDC4?style=for-the-badge&labelColor=0D1117" alt="Innovation Leader Badge"/>
       <br><b>Innovation Leader</b>
       <br><sub>Early adopter of cutting-edge tech</sub>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="25%" style="background-color: #0d1117; border: 1px solid #21262d; border-radius: 8px; padding: 10px; margin: 5px;">
       <img src="https://img.shields.io/badge/🌟-Open%20Source%20Advocate-95E1D3?style=for-the-badge&labelColor=0D1117" alt="Open Source Badge"/>
       <br><b>Open Source Advocate</b>
       <br><sub>Active community contributor</sub>
@@ -208,31 +214,31 @@ flowchart TD
 
 ### 💎 Core Values & Principles
 
-<div align="center">
+<div align="center" style="background-color: #0d1117; border: 2px solid #00d9ff; border-radius: 15px; padding: 20px; margin: 10px;">
 
 <table>
   <tr>
-    <td align="center" width="20%">
+    <td align="center" width="20%" style="background-color: #161b22; border: 1px solid #30363d; border-radius: 10px; padding: 15px; margin: 5px;">
       <img src="https://img.shields.io/badge/🎯-User--First-00D9FF?style=for-the-badge&labelColor=0D1117" alt="User First"/>
       <br><b>User-First</b>
       <br><sub>Every decision prioritizes user value and experience</sub>
     </td>
-    <td align="center" width="20%">
+    <td align="center" width="20%" style="background-color: #161b22; border: 1px solid #30363d; border-radius: 10px; padding: 15px; margin: 5px;">
       <img src="https://img.shields.io/badge/📊-Data--Driven-00D9FF?style=for-the-badge&labelColor=0D1117" alt="Data Driven"/>
       <br><b>Data-Driven</b>
       <br><sub>Metrics and analytics guide product decisions</sub>
     </td>
-    <td align="center" width="20%">
+    <td align="center" width="20%" style="background-color: #161b22; border: 1px solid #30363d; border-radius: 10px; padding: 15px; margin: 5px;">
       <img src="https://img.shields.io/badge/⚡-Ship--Fast-00D9FF?style=for-the-badge&labelColor=0D1117" alt="Ship Fast"/>
       <br><b>Ship Fast</b>
       <br><sub>Rapid prototyping and iterative development</sub>
     </td>
-    <td align="center" width="20%">
+    <td align="center" width="20%" style="background-color: #161b22; border: 1px solid #30363d; border-radius: 10px; padding: 15px; margin: 5px;">
       <img src="https://img.shields.io/badge/🚀-Scale--Smart-00D9FF?style=for-the-badge&labelColor=0D1117" alt="Scale Smart"/>
       <br><b>Scale Smart</b>
       <br><sub>Built for growth, performance, and maintainability</sub>
     </td>
-    <td align="center" width="20%">
+    <td align="center" width="20%" style="background-color: #161b22; border: 1px solid #30363d; border-radius: 10px; padding: 15px; margin: 5px;">
       <img src="https://img.shields.io/badge/🔄-Learn--Adapt-00D9FF?style=for-the-badge&labelColor=0D1117" alt="Learn Adapt"/>
       <br><b>Learn & Adapt</b>
       <br><sub>Continuous learning and technology evolution</sub>
