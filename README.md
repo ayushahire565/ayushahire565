@@ -116,51 +116,82 @@ I'm a **Product Developer** passionate about creating innovative digital solutio
   </tr>
 </table>
 
-## 📊 GitHub Analytics & Performance
+## 📊 GitHub Analytics Dashboard
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=header&text=Analytics%20Dashboard&fontSize=30&fontColor=ffffff&animation=fadeIn" alt="Analytics Banner" />
+  <h3>📈 Performance Metrics</h3>
 </div>
 
 <div align="center">
   <table>
     <tr>
-      <td>
-        <img height="200em" src="https://github-readme-stats.vercel.app/api?username=ayushahire565&show_icons=true&theme=dark&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&border_color=30363d&include_all_commits=true&count_private=true&hide_border=true&card_width=400"/>
+      <td align="center">
+        <img height="200em" src="https://github-readme-stats.vercel.app/api?username=ayushahire565&show_icons=true&theme=dark&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&include_all_commits=true&count_private=true&hide_border=true&card_width=320" alt="GitHub Stats"/>
       </td>
-      <td>
-        <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushahire565&layout=compact&langs_count=8&theme=dark&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&border_color=30363d&hide_border=true&card_width=400"/>
+      <td align="center">
+        <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushahire565&layout=compact&langs_count=8&theme=dark&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&border_color=30363d&hide_border=true&card_width=320" alt="Most Used Languages"/>
       </td>
     </tr>
   </table>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushahire565&theme=dark&background=0d1117&stroke=30363d&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideNums=c9d1d9&currStreakNum=ffffff&dates=c9d1d9&sideLabels=c9d1d9&hide_border=true" alt="GitHub Streak" />
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushahire565&theme=dark&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=ffffff&sideNums=c9d1d9&currStreakNum=ffffff&dates=c9d1d9&sideLabels=c9d1d9&hide_border=true" alt="GitHub Streak Stats" />
+</div>
+
+<br>
+
+<div align="center">
+  <img width="85%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayushahire565&theme=github_dark&hide_border=true" alt="Profile Details" />
+</div>
+
+<br>
+
+<div align="center">
+  <img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=ayushahire565&theme=github-compact&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=ffffff&area=true&hide_border=true&custom_title=📈 Contribution Activity Over Time" alt="Activity Graph" />
+</div>
+
+## 🏆 GitHub Achievement Gallery
+
+<div align="center">
+  <h3>🎯 Trophy Collection</h3>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayushahire565&theme=github_dark&hide_border=true" alt="Detailed Analytics" />
+  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=ayushahire565&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=7&title=MultiLanguage,Commits,PullRequest,Reviews,Issues,Followers,Stars" alt="GitHub Trophies Row 1" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushahire565&theme=github-compact&bg_color=0d1117&color=c9d1d9&line=ffffff&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph" alt="Activity Graph" />
-</div>
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=header&text=Trophy%20Collection&fontSize=30&fontColor=ffffff&animation=blinking" alt="Trophy Banner" />
+  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=ayushahire565&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=7&title=Repositories,LongTimeUser,Experience,Ancestral,SuperRank,Organizations,Gists" alt="GitHub Trophies Row 2" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ayushahire565&theme=onedark&no-frame=true&no-bg=true&margin-w=4&margin-h=4&column=4&row=3&title=MultiLanguage,Commits,PullRequest,Reviews,Issues,Followers,Stars,Repositories,LongTimeUser,Experience,Ancestral,SuperRank" alt="GitHub Trophies" />
+  <table>
+    <tr>
+      <td align="center" width="25%">
+        <img src="https://img.shields.io/badge/🏅-Multi--Language-gold?style=for-the-badge&labelColor=000000" alt="Multi-Language Badge"/>
+        <br><sub>Expert in multiple programming languages</sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://img.shields.io/badge/⭐-Top--Contributor-brightgreen?style=for-the-badge&labelColor=000000" alt="Top Contributor Badge"/>
+        <br><sub>Consistent contribution streaks</sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://img.shields.io/badge/🚀-Innovation--Leader-blue?style=for-the-badge&labelColor=000000" alt="Innovation Leader Badge"/>
+        <br><sub>Leading edge technology adoption</sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://img.shields.io/badge/🌟-Open--Source-orange?style=for-the-badge&labelColor=000000" alt="Open Source Badge"/>
+        <br><sub>Active open source contributor</sub>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## 🚀 Product Development Lifecycle
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=header&text=Development%20Process&fontSize=28&fontColor=ffffff&animation=twinkling" alt="Process Banner" />
+  <h3>⚡ Development Process</h3>
 </div>
 
 <div align="center">
@@ -202,24 +233,24 @@ flowchart TD
   <table>
     <tr>
       <td align="center" width="25%">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FFFFFF&background=0D111700&center=true&vCenter=true&width=200&lines=User-Centric" alt="User Centric" />
-        <br><b>🎯 User-Centric</b>
-        <br>Every decision starts with user needs
+        <img src="https://img.shields.io/badge/🎯-User--Centric-ff6b6b?style=for-the-badge&labelColor=000000" alt="User Centric"/>
+        <br><b>User-Centric</b>
+        <br><sub>Every decision starts with user needs</sub>
       </td>
       <td align="center" width="25%">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FFFFFF&background=0D111700&center=true&vCenter=true&width=200&lines=Data-Driven" alt="Data Driven" />
-        <br><b>📊 Data-Driven</b>
-        <br>Metrics guide our product evolution
+        <img src="https://img.shields.io/badge/📊-Data--Driven-4ecdc4?style=for-the-badge&labelColor=000000" alt="Data Driven"/>
+        <br><b>Data-Driven</b>
+        <br><sub>Metrics guide our product evolution</sub>
       </td>
       <td align="center" width="25%">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FFFFFF&background=0D111700&center=true&vCenter=true&width=200&lines=Agile+%26+Fast" alt="Agile Fast" />
-        <br><b>⚡ Agile & Fast</b>
-        <br>Rapid iteration and continuous delivery
+        <img src="https://img.shields.io/badge/⚡-Agile--Fast-45b7d1?style=for-the-badge&labelColor=000000" alt="Agile Fast"/>
+        <br><b>Agile & Fast</b>
+        <br><sub>Rapid iteration and continuous delivery</sub>
       </td>
       <td align="center" width="25%">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FFFFFF&background=0D111700&center=true&vCenter=true&width=200&lines=Scalable" alt="Scalable" />
-        <br><b>🚀 Scalable</b>
-        <br>Built for growth and future needs
+        <img src="https://img.shields.io/badge/🚀-Scalable-96ceb4?style=for-the-badge&labelColor=000000" alt="Scalable"/>
+        <br><b>Scalable</b>
+        <br><sub>Built for growth and future needs</sub>
       </td>
     </tr>
   </table>
@@ -228,29 +259,33 @@ flowchart TD
 ## 🎯 Current Focus Areas
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=header&text=Current%20Focus&fontSize=30&fontColor=ffffff&animation=scaleIn" alt="Focus Banner" />
+  <h3>🔥 What I'm Working On</h3>
 </div>
 
 <div align="center">
   <table>
     <tr>
       <td align="center" width="50%">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=500&color=FFFFFF&background=00000000&center=true&vCenter=true&width=400&lines=%F0%9F%A4%96+AI-Powered+Applications" alt="AI Focus" />
-        <br>Integrating LLMs and ML models into scalable web applications
+        <img src="https://img.shields.io/badge/🤖-AI--Powered%20Apps-9b59b6?style=for-the-badge&labelColor=000000&logo=openai&logoColor=white" alt="AI Focus"/>
+        <br><b>AI-Powered Applications</b>
+        <br><sub>Integrating LLMs and ML models into scalable web applications</sub>
       </td>
       <td align="center" width="50%">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=500&color=FFFFFF&background=00000000&center=true&vCenter=true&width=400&lines=%F0%9F%93%B1+Cross-Platform+Solutions" alt="Platform Focus" />
-        <br>Building unified experiences across web, mobile, and desktop
+        <img src="https://img.shields.io/badge/📱-Cross--Platform-e17055?style=for-the-badge&labelColor=000000&logo=react&logoColor=white" alt="Platform Focus"/>
+        <br><b>Cross-Platform Solutions</b>
+        <br><sub>Building unified experiences across web, mobile, and desktop</sub>
       </td>
     </tr>
     <tr>
       <td align="center" width="50%">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=500&color=FFFFFF&background=00000000&center=true&vCenter=true&width=400&lines=%F0%9F%8E%A8+Design+Systems" alt="Design Focus" />
-        <br>Creating consistent and accessible component libraries
+        <img src="https://img.shields.io/badge/🎨-Design%20Systems-f39c12?style=for-the-badge&labelColor=000000&logo=figma&logoColor=white" alt="Design Focus"/>
+        <br><b>Design Systems</b>
+        <br><sub>Creating consistent and accessible component libraries</sub>
       </td>
       <td align="center" width="50%">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=500&color=FFFFFF&background=00000000&center=true&vCenter=true&width=400&lines=%E2%9A%A1+Performance+Optimization" alt="Performance Focus" />
-        <br>Enhancing user experience through technical excellence
+        <img src="https://img.shields.io/badge/⚡-Performance%20Opt-27ae60?style=for-the-badge&labelColor=000000&logo=lighthouse&logoColor=white" alt="Performance Focus"/>
+        <br><b>Performance Optimization</b>
+        <br><sub>Enhancing user experience through technical excellence</sub>
       </td>
     </tr>
   </table>
@@ -270,7 +305,7 @@ flowchart TD
 ## 📫 Let's Connect!
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=header&text=Connect%20With%20Me&fontSize=30&fontColor=ffffff&animation=fadeIn" alt="Connect Banner" />
+  <h3>🤝 Get In Touch</h3>
 </div>
 
 <p align="center">
@@ -295,14 +330,10 @@ flowchart TD
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=twinkling" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" alt="Footer Banner" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+%F0%9F%98%8A;Let's+build+something+amazing+together!+%F0%9F%9A%80;Always+learning%2C+always+coding!+%F0%9F%92%BB" alt="Footer Typing" />
-</div>
-
-<div align="center">
-  <i>⭐ From <a href="https://github.com/ayushahire565">ayushahire565</a> with ❤️</i>
-</div>
+  <h4>Thanks for visiting! 😊 Let's build something amazing together! 🚀</h4>
+  <p><i>⭐ From <a href="https://github.com/ayushahire565">ayushahire565</a> with ❤️</i></p>
 </div>
